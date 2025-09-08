@@ -38,7 +38,7 @@ ai-agents/
   * Judge summarizes the debate
 * **Tech:** LangGraph, Groq LLMs
 
-➡️ [See details here](./debate-agent/README.md)
+➡️ [See details here](https://github.com/manya2026bhasin/AI-agents/blob/master/debate%20agent/README.md)
 
 ---
 
